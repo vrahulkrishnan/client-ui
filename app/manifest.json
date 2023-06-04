@@ -1,0 +1,18 @@
+{
+  "name": "client ui",
+  "short_name": "PP",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "scope": ".",
+  "display": "standalone",
+  "theme_color": "#eb6e1c",
+  "background_color": "#eb6e1c",
+  "dir": "ltr",
+  "orientation": "portrait"
+}
